@@ -1,5 +1,7 @@
 # Monitor Host Utilization
 
+*This repository is part of the ACL Workshop by Dynatrace*
+
 This example shows how to create a simple dashboard that analyzes the utilization of all hosts to show instances that are underutilized.
 
 For that we need
